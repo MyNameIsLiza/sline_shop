@@ -1,0 +1,9 @@
+application/cache/
+application/libraries/
+application/language/
+application/hooks/
+application/third_party/
+system/
+application/logs/
+patch.diff
+.idea/
